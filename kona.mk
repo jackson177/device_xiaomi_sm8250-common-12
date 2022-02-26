@@ -331,7 +331,6 @@ PRODUCT_PACKAGES += \
     init.class_main.sh \
     init.mdm.sh \
     init.mi.btmac.sh \
-    init.motor.rc \
     init.nfc.rc \
     init.qcom.rc \
     init.qcom.sh \
